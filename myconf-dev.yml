@@ -1,2 +1,3 @@
 myendpoint: http://worldclockapi.com/api/json/est/now
 some_prop: This is a prop in test (modified)
+some_other_prop: new content
