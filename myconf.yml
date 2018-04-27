@@ -1,2 +1,3 @@
 myendpoint: http://worldclockapi.com/api/json/est/now
 some_prop: This is a prop
+other_prop: edit
